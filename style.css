@@ -228,7 +228,7 @@ main img {
     margin: 0;
     padding: 0;
     font-weight: 700;
-    font-size: 30px;
+    font-size: 20px;
   }
 
   .menu li {
@@ -245,8 +245,7 @@ main img {
   
   .text h2 {
   display: flex;
-  justify-content: flex-start;
-  margin-left: px;
+  justify-content: center;
   text-align: center;
   font-weight: bold;
   font-size: 40px;
